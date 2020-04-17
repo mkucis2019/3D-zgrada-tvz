@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>3D tvz</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>applet-launcher.jar</name>
+			<type>1</type>
+			<location>C:/Users/Seljak/Desktop/3D tvz/applet-launcher.jar</location>
+		</link>
+		<link>
+			<name>gluegen-rt-natives-windows-amd64.jar</name>
+			<type>1</type>
+			<location>C:/Users/Seljak/Desktop/3D tvz/gluegen-rt-natives-windows-amd64.jar</location>
+		</link>
+		<link>
+			<name>gluegen-rt.jar</name>
+			<type>1</type>
+			<location>C:/Users/Seljak/Desktop/3D tvz/gluegen-rt.jar</location>
+		</link>
+		<link>
+			<name>jogl-all-natives-windows-amd64.jar</name>
+			<type>1</type>
+			<location>C:/Users/Seljak/Desktop/3D tvz/jogl-all-natives-windows-amd64.jar</location>
+		</link>
+		<link>
+			<name>jogl.all.jar</name>
+			<type>1</type>
+			<location>C:/Users/Seljak/Desktop/3D tvz/jogl.all.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
